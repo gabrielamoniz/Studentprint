@@ -12,6 +12,7 @@ package printstudentdetails;
 public class Student {
     private String name;
     private int age;
+    private int sid;
 
     /**
      * @return the name
