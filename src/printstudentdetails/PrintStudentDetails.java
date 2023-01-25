@@ -24,12 +24,6 @@ public class PrintStudentDetails {
         s1.setAge(20);
         list[0] = s1;
         System.out.println(list[0].getName() + list[0].getAge());
-        
-       //for loop 
-    //Student s2 = new Student();
-        
-        
-       //Student s3 = new Student();
     }
 
 }
