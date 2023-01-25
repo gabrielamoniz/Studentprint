@@ -5,7 +5,8 @@ package printstudentdetails;
 /**model class
  *define an entity Student attributes name, id, age, functions / methods etc
  * encapsulation principle - object oriented design principals
- * local rep in laptop: 1 - initialize version 2 - .gitconfig 3 - .gitignore
+ * local rep code in laptop: to github rep
+ * local rep configuration: 1 - initialize version 2 - .gitconfig 3 - .gitignore
  * netbeans code - working tree code - to local rep - commit;
  * @author Gabriela Moniz
  */
